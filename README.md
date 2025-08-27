@@ -54,7 +54,7 @@ Content-Type: application/json
 {
   "username": "sandro",
   "email": "sandro@example.com",
-  "password": "123456",
+  "password": "asssa123456",
   "user_type": "employer"
 }
 მომხმარებლის მიღება:
